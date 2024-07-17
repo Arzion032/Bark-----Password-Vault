@@ -1,7 +1,7 @@
 {
-    "host": "your_host",
-    "db_user": "your_username",
-    "db_password": "your_password",
-    "schema": "your_schema",
-    "database": "your_database"
+    "host" : "localhost",
+    "db_user": "melvin_032",
+    "db_password": "Immelvin_032mysql",
+    "schema" : "Bark",
+    "database" : "Cred_Vault"
 }
