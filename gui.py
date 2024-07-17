@@ -11,6 +11,7 @@ ASSETS_PATH = BASE_PATH / 'assets'/ 'frame0'
 id = None
 
 
+# Functions
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
 
